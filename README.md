@@ -1,5 +1,5 @@
 # django_practice
-Django の練習
+Django + Docker でアプリ開発環境を作成する
 
 # SetUp
 
