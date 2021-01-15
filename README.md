@@ -9,10 +9,10 @@ Django + Docker でアプリ開発環境を作成する
 $ docker-compose build
 ```
 
-プロジェクトの作成
+アプリケーションの作成
 
 ```
-$ docker-compose run web django-admin startproject <<project name>> .
+$ docker-compose run web django-admin startproject <<application name>> .
 ```
 
 権限の変更
